@@ -8,6 +8,13 @@ This repository contains code which attempts to reconstruct the ACCC Register AP
 * `acn` and `abn` fields where available
 * `logoUri` sourced from Energy Made Easy where the original URI is a placeholder provided by the ACCC
 
+## Accessing the feed
+
+The feed is available at:
+
+* https://jxeeno.github.io/energy-cdr-prd-endpoints/energy-prd-endpoints.json
+* `docs/energy-prd-endpoints.json`
+
 ## Data sources
 
 ### ACCC Register API
@@ -39,12 +46,6 @@ This repository makes use of reference data from the Energy Made Easy API and us
 ### Hardcoded data
 
 We maintain hardcoded data in `src/hardcode.js` as a fallback for the `productReferenceDataBaseUri` field if any data is not available through alternative data matching arrangements.
-
-## Accessing the feed
-
-The feed is available at:
-
-* `docs/energy-prd-endpoints.json`
 
 ## Data provenance
 
