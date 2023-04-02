@@ -29,17 +29,18 @@
             "acn": "115061375"
         },
         {
-            "interimId": "c5232022-a219-4892-a05d-01419c8a37cb",
-            "brandName": "On by EnergyAustralia",
+            "dataHolderBrandId": "1cc7833a-b834-ed11-a832-000d3a8830d6",
+            "interimId": "1f1ef12a-f96f-467d-a69a-08160f2e6576",
+            "brandName": "EnergyAustralia",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/ed2e5106218d9e617216949b37e6e73f.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/on-by-energyaustralia",
-            "lastUpdated": "2022-11-28T02:24:38Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/on-by-energyaustralia",
+            "logoUri": "https://www.energyaustralia.com.au/themes/custom/ea/assets/images/EA_logo.svg",
+            "publicBaseUri": "https://authncdr.energyaustralia.com.au/",
+            "abn": "99086014968",
             "acn": "086014968",
-            "abn": "99086014968"
+            "lastUpdated": "2023-03-08T01:12:23Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energyaustralia"
         },
         {
             "interimId": "78943358-0f53-4518-ac7d-f6a1903e276d",
@@ -675,6 +676,19 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/next-business",
             "acn": "167937555",
             "abn": "91167937555"
+        },
+        {
+            "interimId": "c5232022-a219-4892-a05d-01419c8a37cb",
+            "brandName": "On by EnergyAustralia",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/ed2e5106218d9e617216949b37e6e73f.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/on-by-energyaustralia",
+            "lastUpdated": "2022-11-28T02:24:38Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/on-by-energyaustralia",
+            "acn": "086014968",
+            "abn": "99086014968"
         },
         {
             "interimId": "59aabae5-18fa-4a69-a2ce-50d197716c33",
