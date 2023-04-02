@@ -28,6 +28,8 @@ This repository makes use of reference data from the Energy Made Easy API and us
 
 `https://api.energymadeeasy.gov.au/refData?keys=organisations,thirdParties`
 
+For example:
+
 ```json
 {
   "tradingName": "Ergon Energy Queensland Pty Ltd",
@@ -43,6 +45,18 @@ This repository makes use of reference data from the Energy Made Easy API and us
   "orgId": "1559"
 }
 ```
+
+is used to generate the following object for hydration:
+
+```json
+{
+   "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ergon",
+   "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/ergon_retail.png",
+   "abn": "11121177802",
+   "acn": "121177802"
+}
+```
+
 
 ### Hardcoded data
 
