@@ -10,10 +10,11 @@ This repository contains code which attempts to reconstruct the ACCC Register AP
 
 ## Accessing the feed
 
-The feed is available at:
+The feed is available via:
 
-* https://jxeeno.github.io/energy-cdr-prd-endpoints/energy-prd-endpoints.json
-* `docs/energy-prd-endpoints.json`
+* GitHub Pages: https://jxeeno.github.io/energy-cdr-prd-endpoints/energy-prd-endpoints.json
+* GitHub (raw content): https://raw.githubusercontent.com/jxeeno/energy-cdr-prd-endpoints/main/docs/energy-prd-endpoints.json
+* Within this git repo: `docs/energy-prd-endpoints.json`
 
 ## Data sources
 
