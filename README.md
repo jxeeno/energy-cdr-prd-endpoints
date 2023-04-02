@@ -8,6 +8,38 @@ This repository contains code which attempts to reconstruct the ACCC Register AP
 * `acn` and `abn` fields where available
 * `logoUri` sourced from Energy Made Easy where the original URI is a placeholder provided by the ACCC
 
+## Data sources
+
+### ACCC Register API
+
+The ACCC Register API is the primary source of this information.  However, the endpoint listed in`publicBaseUri` transitions to the brand's status and outage endpoints when the entity becomes a consumer data holder.  These endpoints are not required to return product reference data despite the specification suggesting it would do so because AER is the data holder for the product data (and not the brand's entity).
+
+### Energy Made Easy Reference Data
+
+This repository makes use of reference data from the Energy Made Easy API and uses this data to hydrate the Register API.
+
+`https://api.energymadeeasy.gov.au/refData?keys=organisations,thirdParties`
+
+```json
+{
+  "tradingName": "Ergon Energy Queensland Pty Ltd",
+  "orgName": "Ergon Energy",
+  "websiteURL": "www.ergon.com.au",
+  "electricityBillURL": "www.ergon.com.au/retail/residential/billing-and-payments/understanding-your-bill",
+  "logo": "/static/organisations/logos/ergon_retail.png",
+  "retailerCode": "ERG",
+  "cdrCode": "ergon",
+  "smallBusinessContact": "1300 135 210",
+  "residentialContact": "13 10 46",
+  "abn": "11 121 177 802",
+  "orgId": "1559"
+}
+```
+
+### Hardcoded data
+
+We maintain hardcoded data in `src/hardcode.js` as a fallback for the `productReferenceDataBaseUri` field if any data is not available through alternative data matching arrangements.
+
 ## Accessing the feed
 
 The feed is available at:
