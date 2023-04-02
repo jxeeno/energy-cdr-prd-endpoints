@@ -23,7 +23,6 @@ export class EnergyCdrPrdEndpointAggregator {
         for(const organisation of Object.values(data.organisations)){
             if(organisation.cdrCode){
                 const orgName = organisation.orgName.trim()
-                const simplifiedTradingName = organisation.tradingName.replace(/ Pty Ltd/i, '').trim()
                 const productReferenceDataBaseUri = `https://cdr.energymadeeasy.gov.au/${organisation.cdrCode}`;
                 const entity = {
                     abn: organisation.abn.replace(/ /g, ''),
@@ -32,7 +31,6 @@ export class EnergyCdrPrdEndpointAggregator {
                     logoUri: `https://energymadeeasy.gov.au${organisation.logo}`
                 };
                 this.emeAdaptedData.set(orgName, entity);
-                this.emeAdaptedData.set(simplifiedTradingName, entity);
                 this.emeAdaptedData.set(productReferenceDataBaseUri, entity);
             }
         }
