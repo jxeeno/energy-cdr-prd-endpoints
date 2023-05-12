@@ -1038,6 +1038,19 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/zen-energy",
             "acn": "615751052",
             "abn": "54615751052"
+        },
+        {
+            "interimId": "a53e525f-5ca0-4764-9617-3d2c161d828c",
+            "brandName": "Pacific Blue Retail",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/13771f1d9fad4a0f17c6d95eab8f82a8.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/pacific-blue",
+            "lastUpdated": "2023-05-12T04:15:27Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/pacific-blue",
+            "acn": "155908839",
+            "abn": "43155908839"
         }
     ]
 }
