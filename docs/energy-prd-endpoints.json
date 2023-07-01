@@ -11,7 +11,7 @@
             "publicBaseUri": "https://public.mydata.cdr.originenergy.com.au",
             "abn": "30000051696",
             "acn": "000051696",
-            "lastUpdated": "2023-04-19T12:29:52Z",
+            "lastUpdated": "2023-07-01T00:00:15Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/origin"
         },
         {
@@ -24,7 +24,7 @@
             "logoUri": "https://agl.com.au/content/dam/digital/agl/images/logos/agl/agl-vertical-gradient.svg",
             "publicBaseUri": "https://public.cdr.agl.com.au",
             "abn": "74115061375",
-            "lastUpdated": "2023-06-21T00:05:10Z",
+            "lastUpdated": "2023-07-01T00:00:11Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/agl",
             "acn": "115061375"
         },
@@ -39,7 +39,7 @@
             "publicBaseUri": "https://authncdr.energyaustralia.com.au",
             "abn": "99086014968",
             "acn": "086014968",
-            "lastUpdated": "2023-05-02T07:20:17Z",
+            "lastUpdated": "2023-07-01T00:00:13Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energyaustralia"
         },
         {
