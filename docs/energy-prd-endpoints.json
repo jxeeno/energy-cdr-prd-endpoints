@@ -57,6 +57,20 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
+            "dataHolderBrandId": "de70398c-7e35-ee11-a83d-000d3a8830d6",
+            "interimId": "be9f78ea-d0cb-44a3-8318-09e41b2a0118",
+            "brandName": "ActewAGL",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.actewagl.com.au/-/media/project/actewagl/actewagldigital/logos/common/logo/brand-logo-actewagl-blue/actewagl_logo_green.png?h=172&w=1343&rev=b507a6379b2542b2afd10075d3318112&hash=640B0A9ED3B13973AEE5A7968C8AEB6A",
+            "publicBaseUri": "https://public.cdr.actewagl.com.au",
+            "abn": "46221314841",
+            "lastUpdated": "2023-10-31T04:09:09Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/actewagl",
+            "acn": "221314841"
+        },
+        {
             "dataHolderBrandId": "47dd2161-c951-ee11-a81c-002248e31327",
             "interimId": "6b6e0923-4a4a-455a-a1b0-9f3228175788",
             "brandName": "Nectr",
@@ -69,6 +83,20 @@
             "acn": "630397214",
             "lastUpdated": "2023-10-31T01:07:05Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/nectr"
+        },
+        {
+            "dataHolderBrandId": "3b80d279-c455-ee11-a81c-002248e31327",
+            "interimId": "052218fc-fb37-4087-b2cc-ced3f0dad299",
+            "brandName": "Dodo Power & Gas",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://s0.2mdn.net/creatives/assets/4983616/Dodo_Logo_Aug23_V1.svg",
+            "publicBaseUri": "https://public.cdr.dodo.com",
+            "abn": "15123155840",
+            "acn": "123155840",
+            "lastUpdated": "2023-10-31T05:12:01Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/dodo"
         },
         {
             "dataHolderBrandId": "a18c6866-f45c-ee11-a81c-002248e31327",
@@ -97,32 +125,6 @@
             "acn": "600285827",
             "lastUpdated": "2023-10-29T23:17:00Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/globird"
-        },
-        {
-            "interimId": "be9f78ea-d0cb-44a3-8318-09e41b2a0118",
-            "brandName": "ActewAGL",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/6611c87938a7a1be03ee55314ba225d3.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/actewagl",
-            "lastUpdated": "2023-10-30T21:12:05Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/actewagl",
-            "acn": "221314841",
-            "abn": "46221314841"
-        },
-        {
-            "interimId": "052218fc-fb37-4087-b2cc-ced3f0dad299",
-            "brandName": "Dodo",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/dodo.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/dodo",
-            "lastUpdated": "2023-10-30T21:14:57Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/dodo",
-            "acn": "123155840",
-            "abn": "15123155840"
         },
         {
             "interimId": "78943358-0f53-4518-ac7d-f6a1903e276d",
