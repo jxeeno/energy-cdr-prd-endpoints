@@ -57,6 +57,34 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
+            "dataHolderBrandId": "47dd2161-c951-ee11-a81c-002248e31327",
+            "interimId": "6b6e0923-4a4a-455a-a1b0-9f3228175788",
+            "brandName": "Nectr",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://nectr.com.au/wp-content/uploads/2023/04/header-logo.svg",
+            "publicBaseUri": "https://public.cdr.nectr.com.au",
+            "abn": "82630397214",
+            "acn": "630397214",
+            "lastUpdated": "2023-10-31T01:07:05Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/nectr"
+        },
+        {
+            "dataHolderBrandId": "a18c6866-f45c-ee11-a81c-002248e31327",
+            "interimId": "b43ff855-5598-4dbb-8c1c-582f02c71e6f",
+            "brandName": "Momentum Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.momentumenergy.com.au/assets/images/logo.svg",
+            "publicBaseUri": "https://public.cdr.momentumenergy.com.au",
+            "abn": "42100569159",
+            "acn": "100569159",
+            "lastUpdated": "2023-10-31T00:07:49Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/momentum"
+        },
+        {
             "dataHolderBrandId": "c12829c8-3a63-ee11-a81c-002248e31327",
             "interimId": "a259655d-31c2-4492-a5d9-2207f46c0713",
             "brandName": "GloBird Energy",
@@ -95,19 +123,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/dodo",
             "acn": "123155840",
             "abn": "15123155840"
-        },
-        {
-            "interimId": "6b6e0923-4a4a-455a-a1b0-9f3228175788",
-            "brandName": "Nectr",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/nectr.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/nectr",
-            "lastUpdated": "2023-10-30T21:18:09Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/nectr",
-            "acn": "630397214",
-            "abn": "82630397214"
         },
         {
             "interimId": "78943358-0f53-4518-ac7d-f6a1903e276d",
@@ -652,19 +667,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/microgrid",
             "acn": "628991131",
             "abn": "93628991131"
-        },
-        {
-            "interimId": "b43ff855-5598-4dbb-8c1c-582f02c71e6f",
-            "brandName": "Momentum Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/momentum.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/momentum",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/momentum",
-            "acn": "100569159",
-            "abn": "42100569159"
         },
         {
             "interimId": "97d5098f-d882-454b-979c-3c2b3cdbf44d",
