@@ -43,6 +43,34 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energyaustralia"
         },
         {
+            "dataHolderBrandId": "40128cc1-56f8-ed11-a83b-000d3a8830d6",
+            "interimId": "73df4586-b3c5-435f-b996-3c29ef0802ba",
+            "brandName": "Simply Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.simplyenergy.com.au/themes/custom/simplyenergy/se-logo-primary.cfa0c223.svg",
+            "publicBaseUri": "https://public.cdr.simplyenergy.com.au",
+            "abn": "67269241237",
+            "lastUpdated": "2023-10-31T23:16:39Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/simply-energy",
+            "acn": "269241237"
+        },
+        {
+            "dataHolderBrandId": "8bd0fd93-9d26-ee11-a83d-000d3a8830d6",
+            "interimId": "cd3f2e4f-bbef-4890-864b-67b7698c4624",
+            "brandName": "Alinta Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.alintaenergy.com.au/-/jssmedia/alinta-website/data/media/img/alinta_default_logo.png",
+            "publicBaseUri": "https://public.cdr.alintaenergy.com.au",
+            "abn": "22149658300",
+            "acn": "149658300",
+            "lastUpdated": "2023-10-31T23:34:30Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/alinta"
+        },
+        {
             "dataHolderBrandId": "b969898e-572f-ee11-a83d-000d3a8830d6",
             "interimId": "ee2a4982-1616-4fe4-982a-8633293002ec",
             "brandName": "Sumo Power",
@@ -113,6 +141,20 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/momentum"
         },
         {
+            "dataHolderBrandId": "8bbfb815-515e-ee11-a81c-002248e31327",
+            "interimId": "a53e525f-5ca0-4764-9617-3d2c161d828c",
+            "brandName": "Tango Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.tangoenergy.com/sites/default/files/2022-08/Default-Logo-Tango.png",
+            "publicBaseUri": "https://public.cdr.tangoenergy.com",
+            "abn": "43155908839",
+            "acn": "155908839",
+            "lastUpdated": "2023-10-31T22:18:57Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tango"
+        },
+        {
             "dataHolderBrandId": "c12829c8-3a63-ee11-a81c-002248e31327",
             "interimId": "a259655d-31c2-4492-a5d9-2207f46c0713",
             "brandName": "GloBird Energy",
@@ -125,6 +167,71 @@
             "acn": "600285827",
             "lastUpdated": "2023-10-29T23:17:00Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/globird"
+        },
+        {
+            "interimId": "0ca1b95d-7f73-4bf9-99a3-fa428d26d733",
+            "brandName": "Kogan Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/kogan.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/kogan",
+            "lastUpdated": "2023-10-31T03:38:03Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/kogan",
+            "acn": "154914075",
+            "abn": "41154914075"
+        },
+        {
+            "interimId": "bc9c8ab7-5dc7-4b6b-ac48-2fe68fa781db",
+            "brandName": "Lumo Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/lumo.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/lumo",
+            "lastUpdated": "2023-10-31T03:38:03Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/lumo",
+            "acn": "121155011",
+            "abn": "92121155011"
+        },
+        {
+            "interimId": "97d5098f-d882-454b-979c-3c2b3cdbf44d",
+            "brandName": "Next Business Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/01007813b3482f5bbb2e8b38736df0bc.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/next-business",
+            "lastUpdated": "2023-10-31T03:38:03Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/next-business",
+            "acn": "167937555",
+            "abn": "91167937555"
+        },
+        {
+            "interimId": "5141e4da-11cf-44ef-900b-54682bc0a49f",
+            "brandName": "Powershop",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/powershop.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/powershop",
+            "lastUpdated": "2023-10-31T03:38:03Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/powershop",
+            "acn": "154914075",
+            "abn": "41154914075"
+        },
+        {
+            "interimId": "eb76743a-4ee5-40a7-aa1b-bd3b719a7622",
+            "brandName": "Red Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/red_energy.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy",
+            "lastUpdated": "2023-10-31T03:38:03Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy",
+            "acn": "107479372",
+            "abn": "60107479372"
         },
         {
             "interimId": "78943358-0f53-4518-ac7d-f6a1903e276d",
@@ -151,19 +258,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/active-utilities",
             "acn": "606139931",
             "abn": "31606139931"
-        },
-        {
-            "interimId": "cd3f2e4f-bbef-4890-864b-67b7698c4624",
-            "brandName": "Alinta",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://www.alintaenergy.com.au/-/jssmedia/alinta-website/graphics/alintaenergy-logo.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/alinta",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/alinta",
-            "acn": "149658300",
-            "abn": "22149658300"
         },
         {
             "interimId": "d4aa3c79-ef00-454c-b1f0-dbd01b25bcca",
@@ -580,19 +674,6 @@
             "abn": "17080675485"
         },
         {
-            "interimId": "0ca1b95d-7f73-4bf9-99a3-fa428d26d733",
-            "brandName": "Kogan Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/kogan.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/kogan",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/kogan",
-            "acn": "154914075",
-            "abn": "41154914075"
-        },
-        {
             "interimId": "d1c6becb-c00e-4e23-8117-227a4ecc03b0",
             "brandName": "Locality Planning Energy",
             "industries": [
@@ -617,19 +698,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/localvolts",
             "acn": "609840379",
             "abn": "12609840379"
-        },
-        {
-            "interimId": "bc9c8ab7-5dc7-4b6b-ac48-2fe68fa781db",
-            "brandName": "Lumo Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/lumo.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/lumo",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/lumo",
-            "acn": "121155011",
-            "abn": "92121155011"
         },
         {
             "interimId": "81e1f31b-c676-4f7b-8648-4a59b29be236",
@@ -669,19 +737,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/microgrid",
             "acn": "628991131",
             "abn": "93628991131"
-        },
-        {
-            "interimId": "97d5098f-d882-454b-979c-3c2b3cdbf44d",
-            "brandName": "Next Business Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/01007813b3482f5bbb2e8b38736df0bc.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/next-business",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/next-business",
-            "acn": "167937555",
-            "abn": "91167937555"
         },
         {
             "interimId": "c5232022-a219-4892-a05d-01419c8a37cb",
@@ -749,19 +804,6 @@
             "abn": "27618362888"
         },
         {
-            "interimId": "5141e4da-11cf-44ef-900b-54682bc0a49f",
-            "brandName": "Powershop",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/powershop.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/powershop",
-            "lastUpdated": "2022-11-28T02:24:38Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/powershop",
-            "acn": "154914075",
-            "abn": "41154914075"
-        },
-        {
             "interimId": "499d880c-ee78-44ba-9442-a275f9465290",
             "brandName": "Powow Power",
             "industries": [
@@ -814,19 +856,6 @@
             "abn": "21605682684"
         },
         {
-            "interimId": "eb76743a-4ee5-40a7-aa1b-bd3b719a7622",
-            "brandName": "Red Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/red_energy.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy",
-            "lastUpdated": "2022-11-28T02:24:38Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy",
-            "acn": "107479372",
-            "abn": "60107479372"
-        },
-        {
             "interimId": "7de5cab6-0d84-464e-8181-950e265f3f7a",
             "brandName": "Sanctuary Energy",
             "industries": [
@@ -864,19 +893,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/shell-energy",
             "acn": "126175460",
             "abn": "87126175460"
-        },
-        {
-            "interimId": "73df4586-b3c5-435f-b996-3c29ef0802ba",
-            "brandName": "Simply Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://www.simplyenergy.com.au/sites/default/files/2022-10/SEN0663_Simply%20Energy%20Backed%20By%20Engie_Lockup_RGB%402x.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/simply-energy",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/simply-energy",
-            "acn": "269241237",
-            "abn": "67269241237"
         },
         {
             "interimId": "d3181009-82ca-4dde-8c30-a19db4412374",
@@ -942,19 +958,6 @@
             "abn": "86601199151"
         },
         {
-            "interimId": "5c3a9def-c09b-4cbc-807d-a18364ee5232",
-            "brandName": "Tango Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/4a9a1b580f5892c7ca3d1b77c2026835.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tango",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tango",
-            "acn": "155908839",
-            "abn": "43155908839"
-        },
-        {
             "interimId": "ea345a5a-8b10-487f-af91-bfd48b0df577",
             "brandName": "Tas Gas",
             "industries": [
@@ -1018,19 +1021,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/zen-energy",
             "acn": "615751052",
             "abn": "54615751052"
-        },
-        {
-            "interimId": "a53e525f-5ca0-4764-9617-3d2c161d828c",
-            "brandName": "Pacific Blue Retail",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/13771f1d9fad4a0f17c6d95eab8f82a8.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/pacific-blue",
-            "lastUpdated": "2023-05-12T04:15:27Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/pacific-blue",
-            "acn": "155908839",
-            "abn": "43155908839"
         }
     ]
 }
