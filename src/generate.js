@@ -20,7 +20,7 @@ export class EnergyCdrPrdEndpointAggregator {
             }
         });
 
-        for(const organisation of Object.values(data.organisations)){
+        for(const organisation of Object.values(data.data.organisations)){
             if(organisation.cdrCode){
                 const orgName = organisation.orgName.trim()
                 const productReferenceDataBaseUri = `https://cdr.energymadeeasy.gov.au/${organisation.cdrCode}`;
