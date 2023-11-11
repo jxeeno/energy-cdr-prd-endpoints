@@ -13,7 +13,7 @@ export class EnergyCdrPrdEndpointAggregator {
     }
 
     loadEmeReferenceData = async () => {
-        const {data} = await axios.get('https://api.energymadeeasy.gov.au/refData', {
+        const {data} = await axios.get('https://api.energymadeeasy.gov.au/refdata2', {
             params: {
                 keys: 'organisations,thirdParties',
                 latest: new Date().valueOf()
