@@ -26,7 +26,7 @@ The ACCC Register API is the primary source of this information.  However, the e
 
 This repository makes use of reference data from the Energy Made Easy API and uses this data to hydrate the Register API.
 
-`https://api.energymadeeasy.gov.au/refData?keys=organisations,thirdParties`
+`https://api.energymadeeasy.gov.au/refdata2?keys=organisations,thirdParties`
 
 For example:
 
