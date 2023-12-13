@@ -984,12 +984,10 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/tasgas.png",
+            "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tas-gas",
             "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tas-gas",
-            "acn": "110370726",
-            "abn": "90110370726"
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tas-gas"
         },
         {
             "interimId": "d709dd2d-e1df-44ec-b427-90865c77b7bf",
