@@ -11,7 +11,7 @@
             "publicBaseUri": "https://public.mydata.cdr.originenergy.com.au",
             "abn": "30000051696",
             "acn": "000051696",
-            "lastUpdated": "2023-07-01T00:00:15Z",
+            "lastUpdated": "2024-01-01T11:02:26Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/origin"
         },
         {
@@ -24,7 +24,7 @@
             "logoUri": "https://agl.com.au/content/dam/digital/agl/images/logos/agl/agl-vertical-gradient.svg",
             "publicBaseUri": "https://public.cdr.agl.com.au",
             "abn": "74115061375",
-            "lastUpdated": "2023-07-01T00:00:11Z",
+            "lastUpdated": "2024-01-01T11:02:24Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/agl",
             "acn": "115061375"
         },
@@ -39,7 +39,7 @@
             "publicBaseUri": "https://authncdr.energyaustralia.com.au",
             "abn": "99086014968",
             "acn": "086014968",
-            "lastUpdated": "2023-07-01T00:00:13Z",
+            "lastUpdated": "2024-01-01T11:02:23Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energyaustralia"
         },
         {
@@ -52,7 +52,7 @@
             "logoUri": "https://www.simplyenergy.com.au/themes/custom/simplyenergy/se-logo-primary.cfa0c223.svg",
             "publicBaseUri": "https://public.cdr.simplyenergy.com.au",
             "abn": "67269241237",
-            "lastUpdated": "2023-11-30T04:53:58Z",
+            "lastUpdated": "2024-01-01T11:02:35Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/simply-energy",
             "acn": "269241237"
         },
@@ -67,7 +67,7 @@
             "publicBaseUri": "https://public.cdr.alintaenergy.com.au",
             "abn": "22149658300",
             "acn": "149658300",
-            "lastUpdated": "2023-11-01T00:06:58Z",
+            "lastUpdated": "2024-01-01T11:02:37Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/alinta"
         },
         {
@@ -81,7 +81,7 @@
             "publicBaseUri": "https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public",
             "abn": "86601199151",
             "acn": "601199151",
-            "lastUpdated": "2023-10-30T23:13:50Z",
+            "lastUpdated": "2024-01-01T11:02:28Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
@@ -95,7 +95,7 @@
             "publicBaseUri": "https://public.cdr.koganenergy.com.au",
             "abn": "41154914075",
             "acn": "154914075",
-            "lastUpdated": "2023-11-01T00:27:59Z",
+            "lastUpdated": "2024-01-01T11:02:29Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/kogan"
         },
         {
@@ -109,7 +109,7 @@
             "publicBaseUri": "https://public.cdr.powershop.com.au",
             "abn": "41154914075",
             "acn": "154914075",
-            "lastUpdated": "2023-11-01T00:27:59Z",
+            "lastUpdated": "2024-01-01T11:02:29Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/powershop"
         },
         {
@@ -122,7 +122,7 @@
             "logoUri": "https://www.actewagl.com.au/-/media/project/actewagl/actewagldigital/logos/common/logo/brand-logo-actewagl-blue/actewagl_logo_green.png?h=172&w=1343&rev=b507a6379b2542b2afd10075d3318112&hash=640B0A9ED3B13973AEE5A7968C8AEB6A",
             "publicBaseUri": "https://public.cdr.actewagl.com.au",
             "abn": "46221314841",
-            "lastUpdated": "2023-10-31T04:09:09Z",
+            "lastUpdated": "2024-01-01T11:02:42Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/actewagl",
             "acn": "221314841"
         },
@@ -137,7 +137,7 @@
             "publicBaseUri": "https://cdr.diamondenergy.com.au:18101",
             "abn": "97107516334",
             "acn": "107516334",
-            "lastUpdated": "2023-12-04T00:01:31Z",
+            "lastUpdated": "2024-01-01T11:02:33Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/diamond"
         },
         {
@@ -151,7 +151,7 @@
             "publicBaseUri": "https://public.cdr.covau.com.au",
             "abn": "54090117730",
             "acn": "090117730",
-            "lastUpdated": "2023-11-21T23:07:13Z",
+            "lastUpdated": "2024-01-01T11:02:34Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/covau"
         },
         {
@@ -165,7 +165,7 @@
             "publicBaseUri": "https://public.cdr.nextbusinessenergy.com.au",
             "abn": "91167937555",
             "acn": "167937555",
-            "lastUpdated": "2023-11-01T03:07:56Z",
+            "lastUpdated": "2024-01-01T11:02:38Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/next-business"
         },
         {
@@ -179,7 +179,7 @@
             "publicBaseUri": "https://public.cdr.nectr.com.au",
             "abn": "82630397214",
             "acn": "630397214",
-            "lastUpdated": "2023-10-31T01:07:05Z",
+            "lastUpdated": "2024-01-01T11:02:43Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/nectr"
         },
         {
@@ -193,7 +193,7 @@
             "publicBaseUri": "https://public.cdr.dodo.com",
             "abn": "15123155840",
             "acn": "123155840",
-            "lastUpdated": "2023-10-31T05:12:01Z",
+            "lastUpdated": "2024-01-01T11:02:44Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/dodo"
         },
         {
@@ -207,7 +207,7 @@
             "publicBaseUri": "https://public.cdr.momentumenergy.com.au",
             "abn": "42100569159",
             "acn": "100569159",
-            "lastUpdated": "2023-11-02T09:22:13Z",
+            "lastUpdated": "2024-01-01T11:02:32Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/momentum"
         },
         {
@@ -221,7 +221,7 @@
             "publicBaseUri": "https://public.cdr.pacificblue.com.au",
             "abn": "43155908839",
             "acn": "155908839",
-            "lastUpdated": "2023-11-22T22:29:51Z",
+            "lastUpdated": "2024-01-01T11:02:41Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/pacific-blue"
         },
         {
@@ -235,7 +235,7 @@
             "publicBaseUri": "https://public.cdr.tangoenergy.com",
             "abn": "43155908839",
             "acn": "155908839",
-            "lastUpdated": "2023-11-22T22:29:51Z",
+            "lastUpdated": "2024-01-01T11:02:41Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tango"
         },
         {
@@ -249,7 +249,7 @@
             "publicBaseUri": "https://publiccdr.globirdenergy.com.au",
             "abn": "68600285827",
             "acn": "600285827",
-            "lastUpdated": "2023-11-08T03:23:38Z",
+            "lastUpdated": "2024-01-01T11:02:42Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/globird"
         },
         {
@@ -263,7 +263,7 @@
             "publicBaseUri": "https://public.cdr.lumoenergy.com.au",
             "abn": "69100528327",
             "acn": "100528327",
-            "lastUpdated": "2023-11-01T02:02:57Z",
+            "lastUpdated": "2024-01-01T11:02:46Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/lumo"
         },
         {
@@ -277,7 +277,7 @@
             "publicBaseUri": "https://public.cdr.redenergy.com.au",
             "abn": "60107479372",
             "acn": "107479372",
-            "lastUpdated": "2023-11-01T02:01:48Z",
+            "lastUpdated": "2024-01-01T11:02:45Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy"
         },
         {
