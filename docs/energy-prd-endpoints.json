@@ -379,10 +379,12 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/cc1f9d42109cdfd0dbf841a340f2a127.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/arcline",
             "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcline"
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcline",
+            "acn": "606408879",
+            "abn": "23606408879"
         },
         {
             "interimId": "bd2863a7-8430-4656-88bf-56bb5c12663c",
@@ -394,8 +396,8 @@
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/arcstream",
             "lastUpdated": "2022-10-21T05:35:24Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcstream",
-            "acn": "140547226",
-            "abn": "74140547226"
+            "acn": "141108590",
+            "abn": "84141108590"
         },
         {
             "interimId": "d5693987-1937-4f43-bddc-9df57b1866b0",
@@ -936,10 +938,12 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/116d93f30044cfc65bbe86a25626bf0a.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/smartestenergy",
             "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/smartestenergy"
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/smartestenergy",
+            "acn": "632313029",
+            "abn": "37632313029"
         },
         {
             "interimId": "0e510b9e-6c17-44e9-b2c4-b287ec2842fb",
@@ -977,8 +981,8 @@
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-gas",
             "lastUpdated": "2022-10-21T05:35:24Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-gas",
-            "acn": "601199151",
-            "abn": "86601199151"
+            "acn": "606951713",
+            "abn": "67606951713"
         },
         {
             "interimId": "ea345a5a-8b10-487f-af91-bfd48b0df577",
