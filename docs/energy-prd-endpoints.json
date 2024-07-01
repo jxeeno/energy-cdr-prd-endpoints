@@ -323,6 +323,20 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy"
         },
         {
+            "dataHolderBrandId": "3a732abd-b2e1-ee11-a73d-6045bd4001ae",
+            "interimId": "3f85802e-1636-4e3a-9395-cba0062bfab9",
+            "brandName": "Ergon Energy Retail",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.ergon.com.au/__data/assets/image/0013/210613/retail-logo.png",
+            "publicBaseUri": "https://public.cdr.ergonretail.com.au",
+            "abn": "11121177802",
+            "acn": "121177802",
+            "lastUpdated": "2024-07-01T02:25:44Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ergon"
+        },
+        {
             "interimId": "fb416e50-6dda-470e-a2aa-a108efd433b4",
             "brandName": "Active Utilities Retail",
             "industries": [
@@ -581,19 +595,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals",
             "acn": "606408879",
             "abn": "23606408879"
-        },
-        {
-            "interimId": "3f85802e-1636-4e3a-9395-cba0062bfab9",
-            "brandName": "Ergon Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/ergon_retail.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/ergon",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ergon",
-            "acn": "121177802",
-            "abn": "11121177802"
         },
         {
             "interimId": "2a5c40a1-2354-4847-93fb-d2d0bd1c1e32",
