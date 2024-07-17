@@ -1048,6 +1048,32 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/zen-energy",
             "acn": "615751052",
             "abn": "54615751052"
+        },
+        {
+            "interimId": "82128706-3e7c-4fc5-bc2b-fc04ee8eab6c",
+            "brandName": "Solstice Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/d0eb4af452fbc3eb0c2e4396ee5269ac.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
+            "lastUpdated": "2024-07-17T04:52:24.383Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
+            "acn": "110370726",
+            "abn": "90110370726"
+        },
+        {
+            "interimId": "e656b6f0-0ff0-400c-880d-51a33e3820ad",
+            "brandName": "iO Energy Retail Services",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/6b0b83e2b11787bca329dae1eeb49f62.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/io-energy",
+            "lastUpdated": "2024-07-17T04:52:24.383Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/io-energy",
+            "acn": "606408879",
+            "abn": "23606408879"
         }
     ]
 }
