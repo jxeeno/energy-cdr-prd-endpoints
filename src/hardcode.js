@@ -1,3 +1,26 @@
+export const ADDITIONAL_PROVIDERS_EXCLUDED_FROM_REGISTER_API = [
+    {
+        "interimId": "82128706-3e7c-4fc5-bc2b-fc04ee8eab6c", // we made this up ourselves
+        "brandName": "Solstice Energy",
+        "industries": [
+            "energy"
+        ],
+        "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
+        "publicBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
+        "lastUpdated": "2024-07-17T04:52:24.383Z"
+    },
+    {
+        "interimId": "e656b6f0-0ff0-400c-880d-51a33e3820ad", // we made this up ourselves
+        "brandName": "iO Energy Retail Services",
+        "industries": [
+            "energy"
+        ],
+        "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
+        "publicBaseUri": "https://cdr.energymadeeasy.gov.au/io-energy",
+        "lastUpdated": "2024-07-17T04:52:24.383Z"
+    }
+]
+
 // Fallback for hardcoded mappings from interimId to prdBaseUri
 export const HARDCODED_INTERIM_ID_PRD_MAPPING = {
     "37aebb2d-d96c-419f-8be4-f42cdffdb238": "https://cdr.energymadeeasy.gov.au/origin",

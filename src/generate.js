@@ -1,6 +1,6 @@
 import axios from "axios";
 import fs from "fs";
-import { HARDCODED_INTERIM_ID_PRD_MAPPING } from "./hardcode.js";
+import { ADDITIONAL_PROVIDERS_EXCLUDED_FROM_REGISTER_API, HARDCODED_INTERIM_ID_PRD_MAPPING } from "./hardcode.js";
 
 export class EnergyCdrPrdEndpointAggregator {
     endpoints = new Map()
@@ -43,6 +43,7 @@ export class EnergyCdrPrdEndpointAggregator {
             }
         });
 
+        data.data.push(...ADDITIONAL_PROVIDERS_EXCLUDED_FROM_REGISTER_API);
         for(const brand of data.data){
             // if the energy provider has not been designated a data holder for consumer data,
             // the ACCC API will return the AER CDR endpoint
