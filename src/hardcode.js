@@ -18,6 +18,16 @@ export const ADDITIONAL_PROVIDERS_EXCLUDED_FROM_REGISTER_API = [
         "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
         "publicBaseUri": "https://cdr.energymadeeasy.gov.au/io-energy",
         "lastUpdated": "2024-07-17T04:52:24.383Z"
+    },
+    {
+        "interimId": "51d53af9-55d6-42ff-b94a-0b54f9bf5af6", // we made this up ourselves
+        "brandName": "Tesla Energy Ventures",
+        "industries": [
+            "energy"
+        ],
+        "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
+        "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
+        "lastUpdated": "2024-07-17T04:52:24.383Z"
     }
 ]
 
