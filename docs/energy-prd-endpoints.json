@@ -1074,6 +1074,19 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/io-energy",
             "acn": "606408879",
             "abn": "23606408879"
+        },
+        {
+            "interimId": "51d53af9-55d6-42ff-b94a-0b54f9bf5af6",
+            "brandName": "Tesla Energy Ventures",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/b5ebd982506da96c4d0db64bfead8e6c.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
+            "lastUpdated": "2024-07-17T04:52:24.383Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
+            "acn": "665982365",
+            "abn": "24665982365"
         }
     ]
 }
