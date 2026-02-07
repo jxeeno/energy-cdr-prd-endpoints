@@ -29,7 +29,7 @@ export const ADDITIONAL_PROVIDERS_EXCLUDED_FROM_REGISTER_API = [
         "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
         "lastUpdated": "2024-07-17T04:52:24.383Z"
     }
-]
+];
 
 // Fallback for hardcoded mappings from interimId to prdBaseUri
 export const HARDCODED_INTERIM_ID_PRD_MAPPING = {
