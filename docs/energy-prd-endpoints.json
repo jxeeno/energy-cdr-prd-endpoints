@@ -1,6 +1,48 @@
 {
     "data": [
         {
+            "dataHolderBrandId": "0f04b9b4-3881-ef11-9443-000d3a79c46e",
+            "interimId": "8a28d246-46ba-4ff3-afcd-14b7d728fa1c",
+            "brandName": "Arcline by RACV",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://public.energylocals.com.au/public/cdr_arcline.png",
+            "publicBaseUri": "https://public.cdr.energy.arcline.com.au",
+            "abn": "23606408879",
+            "acn": "606408879",
+            "lastUpdated": "2026-02-09T00:32:49Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcline"
+        },
+        {
+            "dataHolderBrandId": "94bec46a-2308-ef11-989a-6045bd4001ae",
+            "interimId": "1a7c7ab5-f351-4039-8c99-21ff2a8f1787",
+            "brandName": "Energy Locals",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://public.energylocals.com.au/public/cdr.png",
+            "publicBaseUri": "https://public.cdr.energylocals.com.au",
+            "abn": "23606408879",
+            "acn": "606408879",
+            "lastUpdated": "2026-02-09T00:32:49Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals"
+        },
+        {
+            "dataHolderBrandId": "721f880f-8e74-ef11-a4e6-000d3a79f8aa",
+            "interimId": "d5693987-1937-4f43-bddc-9df57b1866b0",
+            "brandName": "Aurora Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://www.auroraenergy.com.au/sites/default/files/2020-05/aurora-logo-transparent.png",
+            "publicBaseUri": "https://public.cdr.auroraenergy.com.au",
+            "abn": "85082464622",
+            "acn": "082464622",
+            "lastUpdated": "2026-01-01T11:04:05Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/aurora"
+        },
+        {
             "dataHolderBrandId": "244d8a80-3828-ed11-a832-000d3a8830d6",
             "interimId": "37aebb2d-d96c-419f-8be4-f42cdffdb238",
             "brandName": "Origin Energy",
@@ -11,7 +53,7 @@
             "publicBaseUri": "https://public.mydata.cdr.originenergy.com.au",
             "abn": "30000051696",
             "acn": "000051696",
-            "lastUpdated": "2024-07-01T12:03:24Z",
+            "lastUpdated": "2026-01-01T11:04:07Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/origin"
         },
         {
@@ -24,7 +66,7 @@
             "logoUri": "https://agl.com.au/content/dam/digital/agl/images/logos/agl/agl-vertical-gradient.svg",
             "publicBaseUri": "https://public.cdr.agl.com.au",
             "abn": "74115061375",
-            "lastUpdated": "2024-08-01T02:19:40Z",
+            "lastUpdated": "2026-01-01T11:04:04Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/agl",
             "acn": "115061375"
         },
@@ -39,20 +81,20 @@
             "publicBaseUri": "https://authncdr.energyaustralia.com.au",
             "abn": "99086014968",
             "acn": "086014968",
-            "lastUpdated": "2024-10-29T01:32:17Z",
+            "lastUpdated": "2026-01-01T11:04:03Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energyaustralia"
         },
         {
             "dataHolderBrandId": "40128cc1-56f8-ed11-a83b-000d3a8830d6",
-            "interimId": "73df4586-b3c5-435f-b996-3c29ef0802ba",
+            "interimId": "1954f65b-b0c4-4e4d-8ae9-c1359ef09ce4",
             "brandName": "ENGIE",
             "industries": [
                 "energy"
             ],
             "logoUri": "https://www.engie.com.au/sites/default/files/icons/engie_logo.png",
-            "publicBaseUri": "https://public.cdr.simplyenergy.com.au",
+            "publicBaseUri": "https://public.cdr.engie.com.au",
             "abn": "67269241237",
-            "lastUpdated": "2024-07-01T12:03:33Z",
+            "lastUpdated": "2026-01-15T22:50:23Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/engie",
             "acn": "269241237"
         },
@@ -67,7 +109,7 @@
             "publicBaseUri": "https://public.cdr.alintaenergy.com.au",
             "abn": "22149658300",
             "acn": "149658300",
-            "lastUpdated": "2024-07-01T12:03:34Z",
+            "lastUpdated": "2026-01-01T11:04:19Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/alinta"
         },
         {
@@ -81,7 +123,7 @@
             "publicBaseUri": "https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public",
             "abn": "86601199151",
             "acn": "601199151",
-            "lastUpdated": "2024-08-25T23:50:34Z",
+            "lastUpdated": "2026-01-01T11:04:12Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
@@ -95,7 +137,7 @@
             "publicBaseUri": "https://public.cdr.koganenergy.com.au",
             "abn": "41154914075",
             "acn": "154914075",
-            "lastUpdated": "2024-07-01T12:03:28Z",
+            "lastUpdated": "2026-01-01T11:04:12Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/kogan"
         },
         {
@@ -109,7 +151,7 @@
             "publicBaseUri": "https://public.cdr.powershop.com.au",
             "abn": "41154914075",
             "acn": "154914075",
-            "lastUpdated": "2024-07-01T12:03:28Z",
+            "lastUpdated": "2026-01-01T11:04:12Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/powershop"
         },
         {
@@ -122,7 +164,7 @@
             "logoUri": "https://www.actewagl.com.au/-/media/project/actewagl/actewagldigital/logos/common/logo/brand-logo-actewagl-blue/actewagl_logo_green.png?h=172&w=1343&rev=b507a6379b2542b2afd10075d3318112&hash=640B0A9ED3B13973AEE5A7968C8AEB6A",
             "publicBaseUri": "https://public.cdr.actewagl.com.au",
             "abn": "46221314841",
-            "lastUpdated": "2024-07-01T12:03:39Z",
+            "lastUpdated": "2026-01-01T11:04:23Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/actewagl",
             "acn": "221314841"
         },
@@ -137,7 +179,7 @@
             "publicBaseUri": "https://cdr.diamondenergy.com.au:18101",
             "abn": "97107516334",
             "acn": "107516334",
-            "lastUpdated": "2024-07-01T12:03:31Z",
+            "lastUpdated": "2026-01-01T11:04:16Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/diamond"
         },
         {
@@ -151,7 +193,7 @@
             "publicBaseUri": "https://public.cdr.covau.com.au",
             "abn": "54090117730",
             "acn": "090117730",
-            "lastUpdated": "2024-07-01T12:03:32Z",
+            "lastUpdated": "2026-01-01T11:04:17Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/covau"
         },
         {
@@ -165,7 +207,7 @@
             "publicBaseUri": "https://public.cdr.nextbusinessenergy.com.au",
             "abn": "91167937555",
             "acn": "167937555",
-            "lastUpdated": "2024-07-01T12:03:36Z",
+            "lastUpdated": "2026-01-22T22:10:03Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/next-business"
         },
         {
@@ -179,22 +221,21 @@
             "publicBaseUri": "https://public.cdr.1stenergy.com.au",
             "abn": "71604999706",
             "acn": "604999706",
-            "lastUpdated": "2024-07-01T12:03:29Z",
+            "lastUpdated": "2026-01-01T11:04:13Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/1st-energy"
         },
         {
-            "dataHolderBrandId": "098b7b04-de22-ef11-8ee7-00224814bfdf",
-            "interimId": "59aabae5-18fa-4a69-a2ce-50d197716c33",
-            "brandName": "OVO Energy",
+            "interimId": "45cd7adb-8830-4189-b5d7-4010c6dabb3c",
+            "brandName": "MYOB powered by OVO",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://email-assets.ovoenergy.com.au/ovo_energy_full_green_logo.png",
-            "publicBaseUri": "https://public.cdr.ovoenergy.com.au",
-            "abn": "99623475089",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/ovo.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/ovo-energy",
+            "lastUpdated": "2025-07-07T05:24:42Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ovo-energy",
             "acn": "623475089",
-            "lastUpdated": "2024-07-09T23:19:04Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ovo-energy"
+            "abn": "99623475089"
         },
         {
             "dataHolderBrandId": "f120a1b5-4c00-ef11-a73d-002248e1c726",
@@ -207,7 +248,7 @@
             "publicBaseUri": "https://public.cdr.bluenrg.com.au",
             "abn": "30151014658",
             "acn": "151014658",
-            "lastUpdated": "2024-07-01T12:03:40Z",
+            "lastUpdated": "2026-01-30T01:35:56Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/blue-nrg"
         },
         {
@@ -221,7 +262,7 @@
             "publicBaseUri": "https://public.cdr.nectr.com.au",
             "abn": "82630397214",
             "acn": "630397214",
-            "lastUpdated": "2024-07-01T12:03:42Z",
+            "lastUpdated": "2026-01-01T11:04:26Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/nectr"
         },
         {
@@ -235,7 +276,7 @@
             "publicBaseUri": "https://public.cdr.dodo.com",
             "abn": "15123155840",
             "acn": "123155840",
-            "lastUpdated": "2024-07-01T12:03:43Z",
+            "lastUpdated": "2026-01-01T11:04:28Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/dodo"
         },
         {
@@ -249,7 +290,7 @@
             "publicBaseUri": "https://public.cdr.momentumenergy.com.au",
             "abn": "42100569159",
             "acn": "100569159",
-            "lastUpdated": "2024-07-01T12:03:30Z",
+            "lastUpdated": "2026-01-01T11:04:14Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/momentum"
         },
         {
@@ -263,7 +304,7 @@
             "publicBaseUri": "https://public.cdr.pacificblue.com.au",
             "abn": "43155908839",
             "acn": "155908839",
-            "lastUpdated": "2024-07-01T12:03:38Z",
+            "lastUpdated": "2026-01-01T11:04:22Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/pacific-blue"
         },
         {
@@ -277,7 +318,7 @@
             "publicBaseUri": "https://public.cdr.tangoenergy.com",
             "abn": "43155908839",
             "acn": "155908839",
-            "lastUpdated": "2024-07-01T12:03:38Z",
+            "lastUpdated": "2026-01-01T11:04:22Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tango"
         },
         {
@@ -291,7 +332,7 @@
             "publicBaseUri": "https://publiccdr.globirdenergy.com.au",
             "abn": "68600285827",
             "acn": "600285827",
-            "lastUpdated": "2024-07-01T12:03:41Z",
+            "lastUpdated": "2026-01-01T11:04:25Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/globird"
         },
         {
@@ -305,7 +346,7 @@
             "publicBaseUri": "https://public.cdr.lumoenergy.com.au",
             "abn": "69100528327",
             "acn": "100528327",
-            "lastUpdated": "2024-07-01T12:03:45Z",
+            "lastUpdated": "2026-01-01T11:04:30Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/lumo"
         },
         {
@@ -319,8 +360,22 @@
             "publicBaseUri": "https://public.cdr.redenergy.com.au",
             "abn": "60107479372",
             "acn": "107479372",
-            "lastUpdated": "2024-07-01T12:03:44Z",
+            "lastUpdated": "2026-01-01T11:04:29Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/red-energy"
+        },
+        {
+            "dataHolderBrandId": "54968899-b7b5-ef11-95f6-6045bd3f1493",
+            "interimId": "dbfb4be7-27bf-4335-9d92-7e25f1bb8e2a",
+            "brandName": "Amber",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://cdn.prod.website-files.com/65bcfbd87eded73b1edd9413/65bcfdc9d78f09c7ba620068_amber-logo.svg",
+            "publicBaseUri": "https://public.cdr.amber.com.au",
+            "abn": "98623603805",
+            "acn": "623603805",
+            "lastUpdated": "2026-01-01T11:04:30Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/amber"
         },
         {
             "dataHolderBrandId": "3a732abd-b2e1-ee11-a73d-6045bd4001ae",
@@ -333,7 +388,7 @@
             "publicBaseUri": "https://public.cdr.ergonretail.com.au",
             "abn": "11121177802",
             "acn": "121177802",
-            "lastUpdated": "2024-09-03T22:50:52Z",
+            "lastUpdated": "2026-01-01T11:04:18Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ergon"
         },
         {
@@ -342,7 +397,7 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/active.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/0fc6da1797227c2758c074c2506e0c7d.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/active-utilities",
             "lastUpdated": "2022-10-21T05:35:24Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/active-utilities",
@@ -361,19 +416,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/altogether",
             "acn": "136272298",
             "abn": "28136272298"
-        },
-        {
-            "interimId": "dbfb4be7-27bf-4335-9d92-7e25f1bb8e2a",
-            "brandName": "Amber Electric",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/698ce1539d3aa0e319d6098a40756f2a.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/amber",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/amber",
-            "acn": "623603805",
-            "abn": "98623603805"
         },
         {
             "interimId": "e48e8b94-ff6b-44cf-a572-0dff928cf056",
@@ -402,19 +444,6 @@
             "abn": "33614276827"
         },
         {
-            "interimId": "8a28d246-46ba-4ff3-afcd-14b7d728fa1c",
-            "brandName": "ARCLINE by RACV",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/cc1f9d42109cdfd0dbf841a340f2a127.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/arcline",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcline",
-            "acn": "606408879",
-            "abn": "23606408879"
-        },
-        {
             "interimId": "bd2863a7-8430-4656-88bf-56bb5c12663c",
             "brandName": "Arcstream",
             "industries": [
@@ -426,19 +455,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcstream",
             "acn": "141108590",
             "abn": "84141108590"
-        },
-        {
-            "interimId": "d5693987-1937-4f43-bddc-9df57b1866b0",
-            "brandName": "Aurora Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/e9bfabdf2fc18919eb7f0709bcc8af31.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/aurora",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/aurora",
-            "acn": "082464622",
-            "abn": "85082464622"
         },
         {
             "interimId": "ea94715b-96fa-4ed2-9a44-6a7f1f40676c",
@@ -465,19 +481,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/brighte",
             "acn": "646449247",
             "abn": "36646449247"
-        },
-        {
-            "interimId": "040f7f80-c3b2-4a10-8e15-ebb9f324bad6",
-            "brandName": "Circular Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/fd82878b16bd34f4c2d2e4f8eb233680.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/circular",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/circular",
-            "acn": "632900139",
-            "abn": "90632900139"
         },
         {
             "interimId": "40c3b4cd-2df1-4d55-843e-a7ff32aa9dc6",
@@ -519,19 +522,6 @@
             "abn": "41154914075"
         },
         {
-            "interimId": "bca9760e-667f-4176-b54b-baf0ed04c9ae",
-            "brandName": "Commander Power & Gas",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/commander.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/commander",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/commander",
-            "acn": "123155840",
-            "abn": "15123155840"
-        },
-        {
             "interimId": "46b1550c-fd41-40ff-8374-2af6d0cc7293",
             "brandName": "CPE Mascot",
             "industries": [
@@ -559,55 +549,16 @@
         },
         {
             "interimId": "6dfc2033-f5ba-4e61-8119-1eac508e0ad1",
-            "brandName": "EA Connect",
+            "brandName": "Ellis Air Connect",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/a8f69ff37f8d3038a2b56eac1d441349.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/c549c1067f3f1be2ab953068fa95e9d4.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/ea-connect",
-            "lastUpdated": "2022-10-21T05:35:24Z",
+            "lastUpdated": "2026-02-09T06:52:53Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/ea-connect",
             "acn": "0563248",
             "abn": "640563248"
-        },
-        {
-            "interimId": "dd2dfd26-60e1-44a3-9c29-bc1530941ca3",
-            "brandName": "Electricity in a Box",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/0082c19f38cbb2364509982eccfeb1d3.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/electricity-in-a-box",
-            "lastUpdated": "2022-11-28T02:24:38Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/electricity-in-a-box",
-            "acn": "140547226",
-            "abn": "74140547226"
-        },
-        {
-            "interimId": "1a7c7ab5-f351-4039-8c99-21ff2a8f1787",
-            "brandName": "Energy Locals",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energylocals.com.au/app/themes/slate/dist/images/energy-locals-logo.svg",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals",
-            "lastUpdated": "2022-12-18T22:19:25Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals",
-            "acn": "606408879",
-            "abn": "23606408879"
-        },
-        {
-            "interimId": "2a5c40a1-2354-4847-93fb-d2d0bd1c1e32",
-            "brandName": "ERM Power",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/erm.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/erm-power",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/erm-power",
-            "acn": "126175460",
-            "abn": "87126175460"
         },
         {
             "interimId": "d433eba6-dfb2-4d88-94e2-771b1157dd62",
@@ -623,6 +574,19 @@
             "abn": "56623005836"
         },
         {
+            "interimId": "6b04484e-f1a0-483d-8860-95b50a27bb22",
+            "brandName": "Flipped Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/438ff02d87cec3f985c465552312d2e1.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/flipped",
+            "lastUpdated": "2025-07-07T05:16:38Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/flipped",
+            "acn": "653445740",
+            "abn": "73653445740"
+        },
+        {
             "interimId": "ee434966-7168-4884-9b98-98d71bd3ef3c",
             "brandName": "Flow Power",
             "industries": [
@@ -634,19 +598,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/flow-power",
             "acn": "130175343",
             "abn": "27130175343"
-        },
-        {
-            "interimId": "4f4e5544-4b5b-475d-bb1e-3ea51e60412b",
-            "brandName": "Flow Systems",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/flow.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/flow-systems",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/flow-systems",
-            "acn": "136272298",
-            "abn": "28136272298"
         },
         {
             "interimId": "f112314b-b7f3-45a0-b586-49573f8953ce",
@@ -714,6 +665,19 @@
             "abn": "17080675485"
         },
         {
+            "interimId": "4fd2ea8f-504b-4432-a5ca-d6d6a22fa5c8",
+            "brandName": "Radian Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/e7aa7fceceb34995a6eb53c666162ba3.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/radian",
+            "lastUpdated": "2022-10-21T05:35:24Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/radian",
+            "acn": "633200656",
+            "abn": "94633200656"
+        },
+        {
             "interimId": "d1c6becb-c00e-4e23-8117-227a4ecc03b0",
             "brandName": "Locality Planning Energy",
             "industries": [
@@ -740,6 +704,19 @@
             "abn": "12609840379"
         },
         {
+            "interimId": "911c4a0a-6bba-4b30-86b6-bcec385b0dd1",
+            "brandName": "Macarthur Energy Retail",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/cec99be1c421ae486fb308b68f8b2fa5.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/macarthur",
+            "lastUpdated": "2025-07-07T05:21:45Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/macarthur",
+            "acn": "643524921",
+            "abn": "89643524921"
+        },
+        {
             "interimId": "81e1f31b-c676-4f7b-8648-4a59b29be236",
             "brandName": "Macquarie",
             "industries": [
@@ -754,13 +731,13 @@
         },
         {
             "interimId": "cd90f1f3-a930-4674-9ce7-18a9dbc1eeb3",
-            "brandName": "Metered Energy Holdings Pty Ltd",
+            "brandName": "Metered Energy Holdings",
             "industries": [
                 "energy"
             ],
             "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/meh.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/metered-energy",
-            "lastUpdated": "2022-10-21T05:35:24Z",
+            "lastUpdated": "2026-02-09T06:52:53Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/metered-energy",
             "acn": "108143862",
             "abn": "44108143862"
@@ -779,43 +756,17 @@
             "abn": "93628991131"
         },
         {
-            "interimId": "c5232022-a219-4892-a05d-01419c8a37cb",
-            "brandName": "On by EnergyAustralia",
+            "interimId": "e4959768-2b87-42f0-aa24-328acd8c3126",
+            "brandName": "Perpetual Energy",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/ed2e5106218d9e617216949b37e6e73f.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/on-by-energyaustralia",
-            "lastUpdated": "2022-11-28T02:24:38Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/on-by-energyaustralia",
-            "acn": "086014968",
-            "abn": "99086014968"
-        },
-        {
-            "interimId": "34ae9e94-158a-4d3e-9a0f-3682ab04dd15",
-            "brandName": "People Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://peopleenergy.com.au/images/logo.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/people-energy",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/people-energy",
-            "acn": "159727401",
-            "abn": "20159727401"
-        },
-        {
-            "interimId": "c43e786c-ce1f-48f2-b551-8a8e5c67cf47",
-            "brandName": "Powerdirect",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/power_direct.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/powerdirect",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/powerdirect",
-            "acn": "067609803",
-            "abn": "28067609803"
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/f4ae158e047663faaa3ce5893553cd33.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/perpetual",
+            "lastUpdated": "2025-07-07T05:37:41Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/perpetual",
+            "acn": "643401496",
+            "abn": "20643401496"
         },
         {
             "interimId": "9a676d1f-6ec5-48a4-98af-5a2ab293d373",
@@ -844,19 +795,6 @@
             "abn": "39644212322"
         },
         {
-            "interimId": "4fd2ea8f-504b-4432-a5ca-d6d6a22fa5c8",
-            "brandName": "Radian Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/d3d3d70acacace49b7f04cc35bdcce75.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/radian",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/radian",
-            "acn": "633200647",
-            "abn": "92633200647"
-        },
-        {
             "interimId": "a10b23c3-af4d-458a-a22b-7b91ba09e8d2",
             "brandName": "Real Utilities",
             "industries": [
@@ -870,30 +808,17 @@
             "abn": "97150290814"
         },
         {
-            "interimId": "8a3bdc5f-f702-4660-85b6-cfb321b845f4",
-            "brandName": "ReAmped Energy",
+            "interimId": "859e29b4-4a81-4038-9533-3b3ff7b6dbe5",
+            "brandName": "Savant Energy",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/efcc2e0414d559815d5080b40d11ecd1.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/reamped",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/reamped",
-            "acn": "605682684",
-            "abn": "21605682684"
-        },
-        {
-            "interimId": "7de5cab6-0d84-464e-8181-950e265f3f7a",
-            "brandName": "Sanctuary Energy",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/sanctuary.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/sanctuary",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sanctuary",
-            "acn": "128995433",
-            "abn": "62128995433"
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/e29e6529f6c6eb05c5b2ca255938937c.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/savant",
+            "lastUpdated": "2025-07-07T05:42:40Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/savant",
+            "acn": "604736638",
+            "abn": "31604736638"
         },
         {
             "interimId": "3d4f1a26-66b6-4457-9877-5389818f1b75",
@@ -935,30 +860,17 @@
             "abn": "49639060405"
         },
         {
-            "interimId": "de40df1e-b0d8-47e0-8763-6a1859caa451",
-            "brandName": "SmartestEnergy",
+            "interimId": "82128706-3e7c-4fc5-bc2b-fc04ee8eab6c",
+            "brandName": "Solstice Energy",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/116d93f30044cfc65bbe86a25626bf0a.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/smartestenergy",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/smartestenergy",
-            "acn": "632313029",
-            "abn": "37632313029"
-        },
-        {
-            "interimId": "0e510b9e-6c17-44e9-b2c4-b287ec2842fb",
-            "brandName": "Sonnen",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/f24cf95912d90a60409282a147a4c2b2.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/sonnen",
-            "lastUpdated": "2022-11-28T02:24:38Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sonnen",
-            "acn": "606408879",
-            "abn": "23606408879"
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/d0eb4af452fbc3eb0c2e4396ee5269ac.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
+            "lastUpdated": "2024-07-17T04:52:24.383Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
+            "acn": "110370726",
+            "abn": "90110370726"
         },
         {
             "interimId": "58e05a48-1826-4adb-be5f-4d71af1494ca",
@@ -974,30 +886,6 @@
             "abn": "37078848674"
         },
         {
-            "interimId": "d3146a7f-bcdd-4f60-9c03-e4cf47ad3e89",
-            "brandName": "Sumo",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://sumo-public-share.s3.ap-southeast-2.amazonaws.com/SumoIT/URI/Sumo_Logo.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-gas",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-gas",
-            "acn": "606951713",
-            "abn": "67606951713"
-        },
-        {
-            "interimId": "ea345a5a-8b10-487f-af91-bfd48b0df577",
-            "brandName": "Tas Gas",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tas-gas",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tas-gas"
-        },
-        {
             "interimId": "d709dd2d-e1df-44ec-b427-90865c77b7bf",
             "brandName": "Telstra Energy",
             "industries": [
@@ -1011,17 +899,17 @@
             "abn": "23645100447"
         },
         {
-            "interimId": "cfff6141-0d91-4c25-b708-eff75fa7de5e",
-            "brandName": "WinConnect",
+            "interimId": "51d53af9-55d6-42ff-b94a-0b54f9bf5af6",
+            "brandName": "Tesla Energy Ventures",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/win_connect.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/winconnect",
-            "lastUpdated": "2022-10-21T05:35:24Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/winconnect",
-            "acn": "112175710",
-            "abn": "71112175710"
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/b5ebd982506da96c4d0db64bfead8e6c.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
+            "lastUpdated": "2024-07-17T04:52:24.383Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
+            "acn": "665982365",
+            "abn": "24665982365"
         },
         {
             "interimId": "d43e8fb4-b1a2-4cfd-bde4-ab91daec7399",
@@ -1050,17 +938,95 @@
             "abn": "54615751052"
         },
         {
-            "interimId": "82128706-3e7c-4fc5-bc2b-fc04ee8eab6c",
-            "brandName": "Solstice Energy",
+            "interimId": "0dfc837b-563a-40e4-ad61-bc3ae4ba02bd",
+            "brandName": "ASENO",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/d0eb4af452fbc3eb0c2e4396ee5269ac.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
-            "lastUpdated": "2024-07-17T04:52:24.383Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/solstice",
-            "acn": "110370726",
-            "abn": "90110370726"
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/d750f9dd2f6ce940f13061e2f5f44883.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/aseno",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/aseno",
+            "acn": "660232664",
+            "abn": "62660232664"
+        },
+        {
+            "interimId": "2b41d472-89d2-45e5-879a-644ec17298b3",
+            "brandName": "Commander Power & Gas",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/commander.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/commander",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/commander",
+            "acn": "123155840",
+            "abn": "15123155840"
+        },
+        {
+            "interimId": "c3698c76-4441-4ab0-946b-4f0e6c7cbc96",
+            "brandName": "Energy Locals Urban",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/627094e73c210df02fadab1ea9ebac5e.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals-urban",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals-urban",
+            "acn": "165688568",
+            "abn": "79165688568"
+        },
+        {
+            "interimId": "9b48c5f7-f842-45b0-85e3-161272172ab1",
+            "brandName": "ERC Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/05b1bac4159890222db6b2b5d9b91029.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/erc-energy",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/erc-energy",
+            "acn": "629720994",
+            "abn": "93629720994"
+        },
+        {
+            "interimId": "7985e477-007f-429b-a58f-b39df8b5b89c",
+            "brandName": "Silver Asset Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/1303d8cfdca49be3336c64c26b544d68.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/silver-asset",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/silver-asset",
+            "acn": "631775105",
+            "abn": "11631775105"
+        },
+        {
+            "interimId": "751d0efd-70cd-417e-ac49-f497cc953c41",
+            "brandName": "Veolia Energy",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/7e8dde1540b66ff92227909e7165c559.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/veolia",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/veolia",
+            "acn": "140547226",
+            "abn": "74140547226"
+        },
+        {
+            "interimId": "cb97e271-6c22-4bb5-85cc-deb41635706f",
+            "brandName": "WINconnect",
+            "industries": [
+                "energy"
+            ],
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/win_connect.png",
+            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/winconnect",
+            "lastUpdated": "2026-02-09T06:52:53Z",
+            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/winconnect",
+            "acn": "112175710",
+            "abn": "71112175710"
         },
         {
             "interimId": "e656b6f0-0ff0-400c-880d-51a33e3820ad",
@@ -1074,19 +1040,6 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/io-energy",
             "acn": "606408879",
             "abn": "23606408879"
-        },
-        {
-            "interimId": "51d53af9-55d6-42ff-b94a-0b54f9bf5af6",
-            "brandName": "Tesla Energy Ventures",
-            "industries": [
-                "energy"
-            ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/b5ebd982506da96c4d0db64bfead8e6c.png",
-            "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
-            "lastUpdated": "2024-07-17T04:52:24.383Z",
-            "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
-            "acn": "665982365",
-            "abn": "24665982365"
         }
     ]
 }
