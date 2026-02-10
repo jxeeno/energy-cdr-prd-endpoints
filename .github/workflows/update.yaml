@@ -4,7 +4,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *' # daily
+    - cron: '0 * * * *' # hourly
+  workflow_dispatch:
 jobs:
   archive:
     timeout-minutes: 5
@@ -13,17 +14,10 @@ jobs:
     - uses: szenius/set-timezone@v1.0
       with:
         timezoneLinux: "Australia/Sydney"
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
       with:
-        node-version: 16
-    - name: Setup yarn
-      run: npm install -g yarn
-    - name: Setup Nodejs with yarn caching
-      uses: actions/setup-node@v2
-      with:
-        node-version: 16
-        cache: yarn
+        node-version: 20
     - name: Install dependencies
       run: yarn
     - name: Run script
