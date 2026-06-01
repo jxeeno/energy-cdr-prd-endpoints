@@ -197,14 +197,13 @@
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/covau"
         },
         {
-            "dataHolderBrandId": "4f2f096c-5841-ee11-a81c-002248143709",
-            "interimId": "97d5098f-d882-454b-979c-3c2b3cdbf44d",
-            "brandName": "Next Business Energy",
+            "dataHolderBrandId": "81963e1d-f5cb-f011-ad8e-002248150129",
+            "brandName": "Indigo Power",
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://nextbusinessenergy.com.au/logo/nbe-logo.png",
-            "publicBaseUri": "https://public.cdr.nextbusinessenergy.com.au",
+            "logoUri": "https://indigopower.com.au/wp-content/uploads/2025/11/indigo-power_logo.png",
+            "publicBaseUri": "https://public.cdr.indigopower.com.au﻿",
             "abn": "91167937555",
             "acn": "167937555",
             "lastUpdated": "2026-05-28T04:42:37Z",
@@ -579,7 +578,7 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/438ff02d87cec3f985c465552312d2e1.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/f6866514756be5902d6c586f3ad2bba8.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/flipped",
             "lastUpdated": "2025-07-07T05:16:38Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/flipped",
