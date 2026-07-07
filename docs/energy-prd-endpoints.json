@@ -123,7 +123,7 @@
             "publicBaseUri": "https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public",
             "abn": "86601199151",
             "acn": "601199151",
-            "lastUpdated": "2026-07-02T23:00:47Z",
+            "lastUpdated": "2026-07-07T04:39:47Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
@@ -137,7 +137,7 @@
             "publicBaseUri": "https://public.cdr.koganenergy.com.au",
             "abn": "41154914075",
             "acn": "154914075",
-            "lastUpdated": "2026-07-01T12:15:21Z",
+            "lastUpdated": "2026-07-07T06:52:23Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/kogan"
         },
         {
@@ -151,7 +151,7 @@
             "publicBaseUri": "https://public.cdr.powershop.com.au",
             "abn": "41154914075",
             "acn": "154914075",
-            "lastUpdated": "2026-07-01T12:15:21Z",
+            "lastUpdated": "2026-07-07T06:52:23Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/powershop"
         },
         {
