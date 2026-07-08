@@ -123,7 +123,7 @@
             "publicBaseUri": "https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public",
             "abn": "86601199151",
             "acn": "601199151",
-            "lastUpdated": "2026-07-07T04:39:47Z",
+            "lastUpdated": "2026-07-08T01:42:40Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
@@ -578,7 +578,7 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/f6866514756be5902d6c586f3ad2bba8.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/57ff5b908c5881f8f8fb58fca93167e7.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/flipped",
             "lastUpdated": "2025-07-07T05:16:38Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/flipped",
@@ -903,7 +903,7 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/b5ebd982506da96c4d0db64bfead8e6c.png",
+            "logoUri": "https://energymadeeasy.gov.au/static/organisations/logos/273c8225ae5ebc68bd18cc79a296dd04.png",
             "publicBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
             "lastUpdated": "2024-07-17T04:52:24.383Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/tesla",
