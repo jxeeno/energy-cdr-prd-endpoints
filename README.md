@@ -1,5 +1,7 @@
 # Energy CDR Product Reference Data Endpoints
 
+**DEPRECIATION NOTICE:** The ACCC register API now exposes a `productBaseUri` field from v2 onwards. This community-managed API is no longer required.
+
 This repository hosts a community-managed list of Energy CDR Product Reference Data endpoints hosted by the AER.  [AER publishes](https://www.aer.gov.au/consumers/energy-product-reference-data) this list as a PDF file which is not accessible or machine-readable for the purposes of endpoint discovery.
 
 This repository contains code which attempts to reconstruct the ACCC Register API response and hydrate with missing fields and information including:
