@@ -115,7 +115,7 @@
         {
             "dataHolderBrandId": "b969898e-572f-ee11-a83d-000d3a8830d6",
             "interimId": "ee2a4982-1616-4fe4-982a-8633293002ec",
-            "brandName": "Sumo Power",
+            "brandName": "Sumo Power (legacy)",
             "industries": [
                 "energy"
             ],
@@ -123,7 +123,7 @@
             "publicBaseUri": "https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public",
             "abn": "86601199151",
             "acn": "601199151",
-            "lastUpdated": "2026-07-08T01:42:40Z",
+            "lastUpdated": "2026-08-17T12:15:24Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
         },
         {
