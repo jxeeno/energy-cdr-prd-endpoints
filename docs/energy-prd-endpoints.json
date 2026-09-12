@@ -11,13 +11,13 @@
             "publicBaseUri": "https://public.cdr.energy.arcline.com.au",
             "abn": "23606408879",
             "acn": "606408879",
-            "lastUpdated": "2026-09-02T10:53:55Z",
+            "lastUpdated": "2026-09-12T00:14:57Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcline"
         },
         {
             "dataHolderBrandId": "94bec46a-2308-ef11-989a-6045bd4001ae",
             "interimId": "1a7c7ab5-f351-4039-8c99-21ff2a8f1787",
-            "brandName": "Energy Locals",
+            "brandName": "1st Energy (EL Retail Energy)",
             "industries": [
                 "energy"
             ],
@@ -25,7 +25,7 @@
             "publicBaseUri": "https://public.cdr.energylocalsretail.com.au",
             "abn": "23606408879",
             "acn": "606408879",
-            "lastUpdated": "2026-09-02T10:53:55Z",
+            "lastUpdated": "2026-09-12T00:14:57Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals"
         },
         {
