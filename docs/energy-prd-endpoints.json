@@ -11,7 +11,7 @@
             "publicBaseUri": "https://public.cdr.energy.arcline.com.au",
             "abn": "23606408879",
             "acn": "606408879",
-            "lastUpdated": "2026-09-12T00:14:57Z",
+            "lastUpdated": "2026-09-18T06:06:28Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/arcline"
         },
         {
@@ -21,11 +21,11 @@
             "industries": [
                 "energy"
             ],
-            "logoUri": "https://public.energylocalsretail.com.au/public/cdr.png",
+            "logoUri": "https://public.1stenergy.com.au/cdr-1e.png",
             "publicBaseUri": "https://public.cdr.energylocalsretail.com.au",
             "abn": "23606408879",
             "acn": "606408879",
-            "lastUpdated": "2026-09-12T00:14:57Z",
+            "lastUpdated": "2026-09-18T06:06:28Z",
             "productReferenceDataBaseUri": "https://cdr.energymadeeasy.gov.au/energy-locals"
         },
         {
